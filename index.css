@@ -16,4 +16,35 @@
 
   }
 }
+.background{
+  background-image: url("250.jpg");
+}
+.items{
 
+
+}
+.item{
+  vertical-align: top;
+  display: inline-block;
+text-align: left;
+  width: 285px;
+  height: 450px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  padding-left: 25px;
+  padding-right:25px ;
+
+
+}
+.head{
+  text-align: center;
+  color: #000000;
+      font-size: 18px;
+
+    font-weight: bold;
+    margin: 0 0 20px 0;
+}
+.body{
+  color: #000000;
+      font-size: 14px;
+}
