@@ -64,8 +64,41 @@ text-align: left;
   width: 250px;
   height: 300px;
   padding-top: 30px;
-  padding-bottom: 30px;
+  padding-bottom: 300px;
   padding-left: 25px;
   padding-right:25px ;
   background-image:url("black2.jpg") ;
+  font-size: 13px;
+  color: #b4bbb6;
+
+}
+.endsite{
+  background-image: url("joanna-kosinska-547324-unsplash.jpg");
+}
+.endtext{
+color: #e8f1ec;
+padding-bottom: 15px;
+    margin: 0px 0px 0px 0px;
+    text-align: justify;
+width: 400px;
+}
+.endtextg{
+text-align: justify;
+  color: whitesmoke;
+}
+.infoendg{
+
+  padding-bottom: 15px;
+    margin: 0px 0px 0px 0px;
+    text-align: justify;
+  text-align: right;
+  color: whitesmoke;
+
+}
+.infoend{
+  padding-bottom: 15px;
+    margin: 0px 0px 0px 0px;
+    text-align: justify;
+  text-align: right;
+  color: white;
 }
