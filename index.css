@@ -73,32 +73,51 @@ text-align: left;
 
 }
 .endsite{
-  background-image: url("joanna-kosinska-547324-unsplash.jpg");
+  width: 100%;
+  background: #505050;
+      margin: 0 auto;
+    padding: 10px 0;
+    color: #ffffff;
+    min-height: 50px;
+  display: inline-block;
 }
-.endtext{
-color: #e8f1ec;
-padding-bottom: 15px;
-    margin: 0px 0px 0px 0px;
-    text-align: justify;
-width: 400px;
+.suprise{
+display: inline-block;
+  width: 300px;
+vertical-align: top;
+  text-align: center;
+  margin-right:55%;
 }
-.endtextg{
-text-align: justify;
-  color: whitesmoke;
+.contact{
+display: inline-block;
+  height: 50px;
+  width: 300px;
+vertical-align: top;
+  text-align: center;
 }
-.infoendg{
+.poloska{
+height: 3px;
+  width: 1490px;
+  background: #767676;
+}
 
-  padding-bottom: 15px;
-    margin: 0px 0px 0px 0px;
-    text-align: justify;
-  text-align: right;
-  color: whitesmoke;
+.button{
+      position: fixed;
+    bottom: 35px;
+    right: 35px;
+    width: 100px;
+    height: 100px;
+    border: none;
+    box-shadow: 0 0 0 0 rgba(220,53,34,.7);
+    border-radius: 50%;
+    background-color: rgba(220,53,34,0.9);
+    background-size: cover;
+    background-repeat: no-repeat;
+    cursor: pointer;
+    font-size: 140%;
+    text-transform: uppercase;
+    line-height: 1.4em;
+    font-family: 'Ubuntu Condensed',sans-serif;
+    color: #fff;
 
-}
-.infoend{
-  padding-bottom: 15px;
-    margin: 0px 0px 0px 0px;
-    text-align: justify;
-  text-align: right;
-  color: white;
 }
